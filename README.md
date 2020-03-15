@@ -2,3 +2,4 @@
 Test
 
 The plugin development for Minio
+This is a demo project
