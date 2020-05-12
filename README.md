@@ -1,6 +1,6 @@
 # Minio_Development
 Test
-Subnet
+Subnet haskell
 The plugin development for Minio
 This is a demo project
 Basically in java
